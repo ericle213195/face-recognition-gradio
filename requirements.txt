@@ -1,4 +1,4 @@
-faiss-gpu
+faiss-cpu
 Flask==2.2.2
 glob2==0.7
 insightface==0.7.3
@@ -11,3 +11,4 @@ scikit_learn==1.2.1
 tensorflow
 gradio
 tqdm==4.64.1
+fastapi
